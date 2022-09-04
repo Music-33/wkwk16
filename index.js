@@ -13,7 +13,7 @@ CFonts.say('BOT BY\n IRSAN', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`BY IRSAN OFFICIAL`, {                                            
+CFonts.say(`BY MUSIC OFFICIAL`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
